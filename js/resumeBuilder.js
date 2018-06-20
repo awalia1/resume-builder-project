@@ -63,13 +63,13 @@ var projects = {
 			"title" : "sidelineexpert.com",
 			"date" : "June 2017",
 			"description" : "Sports website",
-			"image" : "https://upload.wikimedia.org/wikipedia/en/7/74/Batman_Detective_Comics_Vol_2_1.png"
+			"image" : "https://vignette.wikia.nocookie.net/phobia/images/2/28/Sports.jpg/revision/latest?cb=20161230010824"
 		},
 		{	
 			"title" : "iqbalphotographynyc.com",
 			"date" : "January 2018",
 			"description" : "Photography website",
-			"image" : "https://upload.wikimedia.org/wikipedia/en/7/74/Batman_Detective_Comics_Vol_2_1.png"
+			"image" : "https://rukminim1.flixcart.com/image/312/312/j9yixe80/dslr-camera/t/m/d/eos-200d-eos-200d-canon-original-imaezhnkrgvstcpt.jpeg?q=70"
 		}
 	]
 }
